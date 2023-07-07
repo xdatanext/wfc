@@ -1,0 +1,8 @@
+streamlit
+yfinance
+ta
+matplotlib
+prophet
+plotly
+bokeh
+streamlit-bokeh-events
